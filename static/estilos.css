@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(152, 185, 255);
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+}
+
+.calculadora {
+	line-height: 30px;
+}
+
+.figuras {
+	height: 100px;
+}
